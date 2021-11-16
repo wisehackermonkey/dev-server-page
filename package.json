@@ -36,5 +36,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "repository": "https://github.com/wisehackermonkey/dev-server-page.git",
+  "author": "Oran C <Oranbusiness@gmail.com>",
+  "license": "MIT"
 }
