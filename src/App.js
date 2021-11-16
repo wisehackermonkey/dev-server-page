@@ -1,21 +1,21 @@
-import logo from './logo.svg';
+
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <h1>Orans Development Server</h1>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          If something is not working please contact him for help 🙂
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://oransblog.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Check out my blog
         </a>
       </header>
     </div>
